@@ -11,7 +11,10 @@ const Home =()=>{
 
             <div className="cardArea">
 
-            <Card headerContent={"My custom header"} bodyContent={"Something"}/>
+            <Card headerContent={"Recent Transactions"} bodyContent={"Transactions here"}/>
+            <Card headerContent={"Balances"} bodyContent={"tokens here"}/>
+            <Card headerContent={"Mail"} bodyContent={"Messages here"}/>
+            
            
 
                 
